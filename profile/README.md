@@ -1,6 +1,6 @@
 # GraphBerry 🍇
 
-![image](../images/GNN-01-scaled.jpg)
+![image](/images/GNN-01-scaled.jpg)
 > image credit: [Gentle Introduction to Graph Neural Networks and Graph Convolutional Networks](https://perfectial.com/blog/graph-neural-networks-and-graph-convolutional-networks/)
 
 
