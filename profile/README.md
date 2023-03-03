@@ -45,5 +45,3 @@ Using graphs for molecule graph classification. Our models can classify molecule
 ## 🌅 Join us: A**iming to be SEU 计软智网の頂點. Make it graphberry, sweet yum, enjoy it and have fun.**
 
 Welcome to apply for [Professor Zhang’](https://jhzhangseu.gitee.io)s graph learning group. There are still PhD positions available for 2023!
-
-*Latest Results: Yuchen Wang, Jinghui Zhang*, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, Jiahui Jin, Beilun Wang, and Junzhou Luo. 2023. Label Information Enhanced Fraud Detection against Low Homophily in Graphs. In Proceedings of the ACM Web Conference 2023 (WWW 2023), May 1–5, 2023, Austin, TX, USA. ACM, New York, NY, USA, 11 pages.*
