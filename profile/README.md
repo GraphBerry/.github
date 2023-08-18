@@ -42,6 +42,8 @@ Using spatiotemporal graphs for Multivariate Time-Series flow prediction. Our mo
 
 Using graphs for molecule graph classification. Our models can classify molecules based on their graphs and achieve state-of-the-art performance on multiple benchmarks.
 
-## 🌅 Join us: A**iming to be SEU 计软智网の頂點. Make it graphberry, sweet yum, enjoy it and have fun.**
+<!-- ## 🌅 Join us: A**iming to be SEU 计软智网の頂點. Make it graphberry, sweet yum, enjoy it and have fun.** -->
 
-Welcome to apply for [Professor Zhang’](https://jhzhangseu.gitee.io)s graph learning group. There are still PhD positions available for 2023!
+## 🌅 Join us: Make it graphberry, sweet yum, enjoy it and have fun.**
+
+Welcome to apply for [Professor Zhang’](https://jhzhangseu.gitee.io)s graph learning group. There are still PhD positions available for 2024!
