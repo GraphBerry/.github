@@ -3,9 +3,9 @@
 ![image](/images/GNN-01-scaled.jpg)
 > image credit: [Gentle Introduction to Graph Neural Networks and Graph Convolutional Networks](https://perfectial.com/blog/graph-neural-networks-and-graph-convolutional-networks/)
 
-## 📰 News
+## 📰 GraphBerry Lab News
 
-🆕 GraphBerry Lab News：Congrats！A paper has been accepted by AAAI-24. The code will be released: https://github.com/GraphBerry/DiG-In-GNN
+🆕 2023/12/09: Congrats！A paper has been accepted by AAAI-24. The code will be released: https://github.com/GraphBerry/DiG-In-GNN
 
 ## 🔍 **About us**
 
