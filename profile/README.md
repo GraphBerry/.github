@@ -53,4 +53,4 @@ We are also exploring large-scale graph learning tasks using distributed trainin
 
 ## 🌅 Join us: Make it graphberry, sweet yum, enjoy it and have fun.**
 
-Welcome to apply for [Professor Zhang’](https://jhzhangseu.gitee.io)s graph learning group. There are still PhD positions available for 2025!
+Welcome to apply for [Professor Zhang’](https://jhzhangseu.github.io)s graph learning group. There are still PhD positions available for 2025!
